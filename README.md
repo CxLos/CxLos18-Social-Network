@@ -1,14 +1,9 @@
 # CxLos18-Social-Network
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+```
+The Motivation behind this Application was to create a social network platform. I built this project so that users can share their thoughts, add friends, and react to their friends' posts, all in one social media network. It intends to solve the issue of not being able to keep up with your friend's and what is going on in their lives, so we created this app where people can be open and share whatever they want. In building this project, I really got to familiarize myself with MongoDB and how to operate it. I learned how to use the different syntax for creating the routes and how data is stored in it.
+```
 ## Table of Contents 
 	
 - [Installation](#installation)
@@ -25,16 +20,10 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-Repository
-[](https://github.com/CxLos/CxLos) 
-
-Heroku
-[CxLos14 Blog Site](https://cxlos1-.herokuapp.com)
-
-[Video Walkthrough]()
+[Video Walkthrough](https://drive.google.com/file/d/1Ge3KR0RHj-kTQAi5ra4wLipe9P20tH1b/view)
 
 Image
-![](./assets/images/Screenshot-.png)
+![Preview](./assets/images/Screenshot-152650.png)
 
 ## Badges
 
